@@ -1,4 +1,4 @@
-<h1>Brahim Bouhafa <img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"></h1>
+<h1>Brahim Bouhafa 
 
 ## 🚀 About Me
 
